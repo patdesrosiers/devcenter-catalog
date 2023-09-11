@@ -5,7 +5,3 @@ setupTasks:
   - task: winget
     inputs:
       package: vscode
-  - task: winget
-    inputs:
-      package: OpenJS.NodeJS.LTS
-      version: 16.20.0
